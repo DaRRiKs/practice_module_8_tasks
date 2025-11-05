@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practice_module_8_tasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d95dea7a5391fd1e53cdeb68f822ea4d0c0f7de8")]
 [assembly: System.Reflection.AssemblyProductAttribute("practice_module_8_tasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practice_module_8_tasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
